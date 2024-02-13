@@ -412,23 +412,23 @@ const text_text = [
   ],
   [
     "Recently, Scientists discovered that 'You' are more beautiful than the moon",
-    "I knew this since the 3rd Grade",
+    "I knew this since the 3rd Grade ❤❤❤",
   ],
   [
-    "Some people call this planet 'Their World', mine will always be you",
+    "Some people call this planet 'Their World', mine will always be you✨✨",
     "According to a greek philosophy, this world would have started to face extinction, had we not started dating (I strongly believe in this)",
   ],
   [
-    "The planet completely made of diamonds. You should know its name by now, considering we have visited it many times in my dreams.",
-    "But still, bringing diamonds from here won't be feasible. Do you really like diamonds that much? ",
+    "The planet completely made of diamonds💎. You should know its name by now, considering we have visited it many times in my dreams.😂",
+    "But still, bringing diamonds from here won't be feasible. Do you really like diamonds that much?😅 ",
   ],
   [
-    "Oh! the warmth I feel when I'm with you, the energy I get when I talk to you,",
-    "the way my eyes shine when I see you. My day starts with you, and ends with me waiting to see that Good morning text from you again... You really are MY STAR!!!",
+    "Oh! the warmth I feel when I'm with you, the energy I get when I talk to you,😍😍",
+    "the way my eyes shine when I see you. My day starts with you, and ends with me waiting to see that Good morning text from you again... You really are MY STAR!!!✨✨✨",
   ],
   [
-    "I'm thankful to the gods that I'm born in this universe, otherwise I would have been left without a snap yellow heart bestie, p.e benchmate, class 8th co-monitor ",
-    "and a thousand more things.. but the most important a soulmate",
+    "I'm thankful to the gods that I'm born in this universe, otherwise I would have been left without a snap yellow heart bestie 💛, p.e benchmate 😂, class 8th co-monitor ",
+    "and a thousand more things.. but the most important a soulmate 💞",
   ],
 ];
 const size_text = [
@@ -576,11 +576,11 @@ const heartsizeSprite = createTextSpriteFinal(
 );
 
 const heartText = [
-  "Thank you for being perfect in every way possible. It's still very hard to believe that any of this is real,",
-  "but God finally chose me to be the luckiestttttt guy on Earth and you have no idea how happyyyyy that makes me(all those morning assembly prayers were answered). Everything is so perfect that I wonder why I didn't muster the courage sooner,",
-  " but more than that, I'm grateful that I didn't wait a second longer. I feel so relieved and comforted when I talk to you, when I am with you, when I see you smile.",
+  "Thank you for being perfect in every way possible ❤️❤️❤️❤️. It's still very hard to believe that any of this is real,",
+  "but God finally chose me to be the luckiestttttt guy on Earth and you have no idea how happyyyyy that makes me(all those morning assembly prayers were answered 😂). Everything is so perfect that I wonder why I didn't muster the courage sooner,",
+  " but more than that, I'm grateful that I didn't wait a second longer ✨. I feel so relieved and comforted when I talk to you, when I am with you, when I see you smile.",
   " Everything comes to a pause, and I feel I could live in that moment for ever. And I'm willing to do anything for this feeling to stay forever.",
-  " I know you have very little idea of how much I love you, but I'll try slowly you get some picture of it. I love only and only you, Sugandh..",
+  " I know you have very little idea of how much I love you, but I'll try slowly you get some picture of it😂😘. I love only and only you ❤️❤️, Sugandh..",
   "Will you be my Valentine?",
 ];
 let space_heart_text = 0;
