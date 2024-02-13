@@ -389,7 +389,12 @@ const planetData = [
   { name: "Mercury", radius: 3, texture: "mercury texture.jpg", speed: 0.018 },
   { name: "Moon", radius: 3.6, texture: "moon texture.jpeg", speed: 0.015 },
   { name: "Earth", radius: 6.4, texture: "earth texture.jpg", speed: 0.0125 },
-  { name: "Diamond", radius: 12, texture: "diamond texture.jpg", speed: 0.01 },
+  {
+    name: "55 Cancri E",
+    radius: 12,
+    texture: "diamond texture.jpg",
+    speed: 0.01,
+  },
   { name: "Sun", radius: 24, texture: "sun texture.jpeg", speed: 0.0075 },
   { name: "Galaxy", radius: 48, texture: "galaxy texture 1.jpg", speed: 0.005 },
 ];
@@ -403,13 +408,28 @@ const font_size = [14, 14, 14, 14, 14, 24];
 const text_text = [
   [
     "Smallest Planet in the Solar System",
-    "But not really that small, it's about 1/3rd size of earth",
+    "But not really that small, it's about 1/3rd size of the Earth, so we are starting at quite the size",
   ],
-  ["a", "b"],
-  ["a", "b"],
-  ["a", "b"],
-  ["a", "b"],
-  ["a", "b"],
+  [
+    "Recently, Scientists discovered that 'You' are more beautiful than the moon",
+    "I knew this since the 3rd Grade",
+  ],
+  [
+    "Some people call this planet 'Their World', mine will always be you",
+    "According to a greek philosophy, this world would have started to face extinction, had we not started dating (I believe in this)",
+  ],
+  [
+    "The planet completely made of diamonds. You should know it's name by now, considering we have visited this a lot of times, in my dreams",
+    "But still bringing diamonds from here won't be feasible. Do you really like diamonds? ",
+  ],
+  [
+    "The warmth I feel when I'm with you, the energy I get when I talk to you,",
+    "the way my eyes shine seeing you. My day starts with you, and ends with me waiting to see that Good morning text from you again... You really are my star!!!",
+  ],
+  [
+    "I'm thankful to the gods that I'm born in this universe, otherwise I would have been left without a snap yellow heart bestie, p.e benchmate, class 8th co-monitor ",
+    "and a thousand more things.. but the most important a soulmate",
+  ],
 ];
 const size_text = [
   "(~ 5,000 km)",
@@ -453,7 +473,7 @@ for (const data of planetData) {
 
   const sizeSprite = createTextSprite(
     // `Size: ${data.radius} units`,
-    `Size : ${size_text[i]}`,
+    `Diameter : ${size_text[i]}`,
     position
       .clone()
       .add(new THREE.Vector3(0, data.radius + dist_sizeSprite[i], 0)),
