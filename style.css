@@ -1,15 +1,5 @@
-/* canvas {
+canvas {
   position: fixed;
   top: 0;
   left: 0;
-} */
-
-body {
-  margin: 0;
-  overflow: hidden;
-  background: radial-gradient(ellipse at center, #0b0c29 0%, #000000 100%);
-}
-
-canvas {
-  display: block;
 }

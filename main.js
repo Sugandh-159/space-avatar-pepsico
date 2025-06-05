@@ -96,9 +96,7 @@ for (const data of avatarData) {
     const headingSprite = createTextSprite(
       "STELLAR CREW",
       position.clone().add(new THREE.Vector3(0, 18, 0)),
-      36,
-      "Bold 60px Georgia", // Use a classy serif title font
-      "#ffd700"
+      36
     );
 
     scene.add(textSprite);
