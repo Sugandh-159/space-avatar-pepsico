@@ -1,4 +1,3 @@
-import "./style.css";
 import * as THREE from "https://unpkg.com/three@0.160.0/build/three.module.js";
 import { OrbitControls } from "https://unpkg.com/three@0.160.0/examples/jsm/controls/OrbitControls.js";
 
@@ -53,17 +52,17 @@ function createTextSprite(text, position, fontSize) {
 
 const avatarData = [
   {
-    texture: "avatar-1.png",
+    texture: "public/avatar-1.png",
     z: 0,
     messages: ["Name", "Function"],
   },
   {
-    texture: "avatar-2.png",
+    texture: "public/avatar-2.png",
     z: 175,
     messages: ["Name", "Function"],
   },
   {
-    texture: "avatar-3.png",
+    texture: "public/avatar-3.png",
     z: 275,
     messages: ["Name", "Function"],
   },
